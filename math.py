@@ -39,3 +39,4 @@ def ruleofproduct(num):
 
 
 print(factorial(10,5))
+print("Hello")

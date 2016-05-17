@@ -38,4 +38,4 @@ def ruleofproduct(num):
     return num
 
 
-#print(factorial(10)/(factorial(4)*factorial(3)*factorial(1)*factorial(1)*factorial(1)))
+print(factorial(10,5))

@@ -1,0 +1,7 @@
+./14.txt
+./dummy1.txt
+./dummy2.txt
+./14.txt
+./dummy1.txt
+./dummy2.txt
+Hello Goodbye Ive written to this file now and it really works
